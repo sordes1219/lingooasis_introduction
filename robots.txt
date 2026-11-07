@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lingooasis-travel-chat.breezygem35.chatgpt.site/sitemap.xml
